@@ -1,0 +1,145 @@
+.component-widget {
+  position: relative;
+  flex: 1 0 auto;
+  display: flex;
+  flex-direction: column;
+  margin: 12px 0;
+}
+.widget-header__title {
+  font-size: 16px;
+  font-size: 1rem;
+  font-weight: 500;
+}
+.lumx-expansion-panel__wrapper
+{
+  max-height:900px !important
+}
+.searchcontainer
+{
+  width:100%;
+  border: solid opx red;
+  margin-bottom:5%;
+  border-bottom:1px solid rgba(0,0,0,0.1);
+  padding-bottom:20px;
+}
+.listcontainer
+{
+  width:100%;
+  border: solid 0px blue;
+  margin-bottom:5%;
+  border-bottom:1px solid rgba(0,0,0,0.1);
+  padding-bottom:20px;
+}
+.colscontainer
+{
+  width:100%;
+  border: solid 0px red;
+  margin-bottom:5%;
+  border-bottom:1px solid rgba(0,0,0,0.1);
+  padding-bottom:20px;
+}
+.commentBlock
+{
+  width:100%;
+  border: solid 0px red;
+  margin-bottom:5%;
+  border-bottom:1px solid rgba(0,0,0,0.1);
+  padding-bottom:20px;
+}
+.searchInput
+{
+  margin-right:5%;
+  height: 36px;
+}
+.chips
+{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.newsContainer
+{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.listContainer
+{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  border: solid 0px red;
+}
+.newsItem
+{
+  
+  border: solid opx red;
+  margin-bottom:5%;
+  border-bottom:0px solid rgba(0,0,0,0.1);
+  padding-bottom:20px;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+  padding:8px;
+ 
+  margin-right: 1%;
+  min-height: 200px;
+  flex-basis: 24%;
+}
+.newsTitle
+{
+  
+  font-size: 1rem;
+    font-weight: 500;
+  margin-bottom:5%;
+  
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    margin: 0 4px;
+    padding: 12px 0;
+    border: solid rgba(0,0,0,.12);
+    border-width: 0 0 1px;
+}
+
+.newsImage
+{
+  width:90%;
+  margin-bottom:2%;
+}
+.hasimage
+{
+  width:200px !important;
+  height:200px !important;
+}
+.hasnoimage
+{
+  width:0px !important;
+  height:0px !important;
+}
+
+.newsPub
+{
+  width:90%;
+  margin-bottom:2%;
+  font-size:16px;
+}
+.url{
+  color: inherit;
+  text-decoration: none;
+}
+.excerpt
+{
+  width:90%;
+  margin-bottom:5%;
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-line-clamp: 5;
+  -webkit-box-orient: vertical;
+
+}
+.lumx-chip--size-m .lumx-chip__label {
+  
+  font-size: 12px !important;
+  
+}

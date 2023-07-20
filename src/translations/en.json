@@ -1,0 +1,15 @@
+{
+    "title": "Lorem Picsum",
+    "sub_title": "Sample widget",
+    "description": "This is a tiny example of all the things you can do with a LumApps widget",
+    "errors.retrieve_user": "An error occurred while retrieving user",
+    "errors.dismiss": "Dismiss",
+    "settings.image_id": "Image identifier",
+    "settings.grey": "Display a grey scale image",
+    "settings.blur": "Display a blurry image",
+    "settings.nonews_value_title": "List Items",
+    "settings.nonews_value_desc": "Adjust the number of list items to display",
+    "settings.excerpt_value_title": "Excerpt value",
+    "settings.excerpt_value_desc": "Adjust the number of characters to show in the news excerpt",
+    "settings.image": "Display a default SharePoint image"
+}
